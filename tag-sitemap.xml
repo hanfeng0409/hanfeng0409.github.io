@@ -3,14 +3,14 @@
 
 
     <url>
-        <loc>http://yoursite-url/tags/Blog/</loc>
+        <loc>https://github.com/hanfeng0409/hanfeng0409.github.io/tags/Blog/</loc>
         <lastmod>2019-08-01T14:16:13.310Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/tags/Hexo/</loc>
+        <loc>https://github.com/hanfeng0409/hanfeng0409.github.io/tags/Hexo/</loc>
         <lastmod>2019-08-01T14:16:13.310Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

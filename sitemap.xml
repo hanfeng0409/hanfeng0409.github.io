@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>https://github.com/hanfeng0409/hanfeng0409.github.io/post-sitemap.xml</loc>
         <lastmod>2019-08-01T14:16:13.310Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>https://github.com/hanfeng0409/hanfeng0409.github.io/page-sitemap.xml</loc>
         <lastmod>2019-08-01T14:16:13.361Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
+        <loc>https://github.com/hanfeng0409/hanfeng0409.github.io/tag-sitemap.xml</loc>
         <lastmod>2019-08-01T14:16:13.310Z</lastmod>
     </sitemap>
 
